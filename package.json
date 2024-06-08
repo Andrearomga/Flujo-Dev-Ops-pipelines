@@ -1,0 +1,19 @@
+{
+  "name": "flujo-dev-ops-ci-cd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "devDependencies": {
+    "mocha": "^10.4.0",
+    "supertest": "^6.1.6"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
